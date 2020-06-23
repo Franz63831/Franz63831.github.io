@@ -1,4 +1,4 @@
-# Axel Milberg# Axel Milberg
+# Axel Milberg
 
 Hauptkommissar Klaus Borowski
 
@@ -20,4 +20,4 @@ usw...
 
 
 Zitat:
-*Ich bin lieber dann alleine, wenn ich unglücklich bin, als wenn ich glücklich bin.*
+Ich bin lieber dann alleine, wenn ich unglücklich bin, als wenn ich glücklich bin.

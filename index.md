@@ -1,4 +1,4 @@
-# Axel Milberg
+# Axel Milberg# Axel Milberg
 
 Hauptkommissar Klaus Borowski
 
@@ -9,3 +9,13 @@ Daraus wurde eine scheue Liebesgeschichte mit Frida Jung (Maren Eggert), die kur
 Borowski als Ermittlerfigur veränderte sich, bleibt aber überraschend, mal wortkarg, mal zärtlich und oft voll Empathie.
 
 usw...
+
+## Charaktereigenschaften
+
+* wortkarg
+* einfühlsam
+* etwas chaotisch
+* hintersinnig
+* witzig
+
+> Ich bin lieber dann alleine, wenn ich unglücklich bin, als wenn ich glücklich bin.

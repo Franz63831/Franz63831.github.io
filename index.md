@@ -7,3 +7,5 @@ Mit immer wieder neuen Facetten überrascht dieser Ermittler das Publikum. Als z
 geschieden, eine Tochter, wurde er in den ersten Folgen zu Sitzungen bei der Polizeipsychologin verdonnert. 
 Daraus wurde eine scheue Liebesgeschichte mit Frida Jung (Maren Eggert), die kurz vor der Heirat ein jähes Ende fand. 
 Borowski als Ermittlerfigur veränderte sich, bleibt aber überraschend, mal wortkarg, mal zärtlich und oft voll Empathie.
+
+usw...

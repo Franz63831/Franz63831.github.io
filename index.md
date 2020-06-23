@@ -18,4 +18,6 @@ usw...
 * hintersinnig
 * witzig
 
-> Ich bin lieber dann alleine, wenn ich unglücklich bin, als wenn ich glücklich bin.
+
+Zitat:
+*Ich bin lieber dann alleine, wenn ich unglücklich bin, als wenn ich glücklich bin.*

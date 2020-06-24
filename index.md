@@ -17,3 +17,6 @@ usw...
 * etwas chaotisch
 * hintersinnig
 * witzig
+
+Zitat:
+> Ich bin lieber dann alleine, wenn ich unglücklich bin, als wenn ich glücklich bin.

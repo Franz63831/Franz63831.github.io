@@ -20,3 +20,5 @@ usw...
 
 Zitat:
 > Ich bin lieber dann alleine, wenn ich unglücklich bin, als wenn ich glücklich bin.
+
+<img src="https://de.wikipedia.org/wiki/Axel_Milberg">
